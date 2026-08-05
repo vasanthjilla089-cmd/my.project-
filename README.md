@@ -1,0 +1,64 @@
+Bank Marketing & Customer Behavior Prediction – GitHub Project Explanation
+1. Project Title
+
+Bank Marketing & Customer Behavior Prediction using Machine Learning
+
+2. Project Objective
+
+The objective of this project is to analyze customer data and predict whether a customer will subscribe to a bank term deposit. The project helps banks identify potential customers and improve marketing campaign effectiveness.
+
+3. Dataset
+Bank Marketing Dataset
+Customer demographic and financial information
+Target Variable: y (Yes / No)
+4. Data Preprocessing
+Imported required Python libraries
+Loaded the dataset using Pandas
+Checked missing values and duplicates
+Handled categorical variables using encoding
+Performed feature scaling where required
+5. Exploratory Data Analysis (EDA)
+Analyzed customer age distribution
+Job-wise customer analysis
+Marital status analysis
+Balance distribution
+Loan and housing loan analysis
+Campaign performance analysis
+6. Feature Engineering
+Selected important features
+Converted categorical columns into numerical values
+Prepared training and testing datasets
+7. Model Building
+
+Applied Machine Learning algorithms such as:
+
+Logistic Regression
+Decision Tree
+Random Forest (if used)
+8. Model Evaluation
+
+Evaluated the model using:
+
+Accuracy Score
+Confusion Matrix
+Classification Report
+Precision
+Recall
+F1-Score
+9. Power BI Dashboard
+
+Created an interactive dashboard to visualize:
+
+Customer age by job
+Maximum balance by loan status
+Balance, duration, and campaign analysis
+Customer segmentation
+Overall marketing insights
+10. Project Outcome
+
+The model predicts customers who are more likely to subscribe to a term deposit. This helps banks:
+
+Improve marketing efficiency
+Reduce campaign costs
+Increase customer conversion rates
+Make data-driven business decisions
